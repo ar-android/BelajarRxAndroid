@@ -43,6 +43,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="More map" />
+
+            <RadioButton
+                android:id="@+id/custom_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Custom Data" />
         </RadioGroup>
 
     </LinearLayout>
